@@ -1,2 +1,1 @@
-# knowledge
-Everything I know
+# My Knowledge Wiki
