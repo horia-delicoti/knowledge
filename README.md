@@ -1,3 +1,3 @@
-# My Knowledge Wiki
+# [My Knowledge Wiki](https://horia-delicoti.gitbook.io/my-space/)
 
-Everything I know in form of an [online GitBook](https://horia-delicoti.gitbook.io/my-space/) hosted on [GitHub](https://github.com/horia-delicoti/knowledge).
+This is my personal [wiki online GitBook](https://horia-delicoti.gitbook.io/my-space/) hosted on [GitHub](https://github.com/horia-delicoti/knowledge).
