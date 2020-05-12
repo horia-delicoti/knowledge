@@ -29,6 +29,7 @@
 
 # Link
 
+ - [fpvknowitall](https://www.fpvknowitall.com/)
  - [iflight](https://shop.iflight-rc.com/index.php?route=common/home)
  - [drone-fpv-racer](https://www.drone-fpv-racer.com/)
  - [getfpv](https://www.getfpv.com/)
@@ -42,10 +43,14 @@
  - [oscarling](https://oscarliang.com/)
  - [How Setup DJI FPV System for the First Time](https://oscarliang.com/dji-fpv-system-setup/)
 
----
+# RTF
 - [TBS Source One Quadcopter RTF](https://www.getfpv.com/tbs-source-one-quadcopter-rtf-1700kv-2400kv.html)
-- [TheFPV Build Your Own Freestyle Drone (Kit)](https://www.unmannedtechshop.co.uk/product/thefpv-build-your-own-freestyle-drone-kit/)
+- [TheFPV Build Your Own Freestyle Drone (Kit)](https://www.unmannedtechshop.co.uk/piroduct/thefpv-build-your-own-freestyle-drone-kit/)
 - [TBS Source One Bundle](https://www.team-blacksheep.com/products/prod:sourceone_bundle)
+---
+- [iFlight X DJI TITAN DC5 BNF w/ DJI Digital HD FPV System](https://shop.iflight-rc.com/index.php?route=product/product&product_id=1100)
+- [Lumenier QAV-R 2 Freestyle Quadcopter RTF w/ DJI Digital](https://www.getfpv.com/lumenier-qav-r-2-rtf-with-dji-hd-fpv-system.html)
+- [TBS Source One Quadcopter RTF](https://www.getfpv.com/tbs-source-one-quadcopter-rtf-1700kv-2400kv.html)
 
 List to have from [RTF](https://www.drone-fpv-racer.com/en/iflight-titan-dc5-hd-bnf-w-dji-air-unit-6094.html):
  - [X] 1x TITAN DC5 HD Frame
@@ -63,3 +68,26 @@ List to have from [RTF](https://www.drone-fpv-racer.com/en/iflight-titan-dc5-hd-
  - [X] 1x SucceX- F7 Flight Controller
  - [X] 1x SucceX BLHeli32 50A 4-in-1 ESC 2-6S
  - [ ] 2x MMCX to RP-SMA Female Adapter Cable
+
+# Final list
+- [iFlight X DJI TITAN DC5 BNF w/ DJI Digital HD FPV System](https://shop.iflight-rc.com/index.php?route=product/product&path=25_309&product_id=1100)
+  - _Replacement parts:_
+  - [Nazgul 5140 Tri-blades CW CCW Propellers](https://shop.iflight-rc.com/index.php?route=product/product&product_id=964) xfara_numar
+    - or [Gemfan Flash 5152 5.1x5.2x3 3 Blade CW CCW PC Propeller](https://www.banggood.com/2-Pairs-Gemfan-5152-5_1x5_2x3-3-Blade-CW-CCW-PC-FPV-Racing-Propeller-for-180-250-280-RC-Multicopters-p-1139126.html?rmmds=search&ID=3868&cur_warehouse=CN)
+  - Front Boomerang Arm x1
+  - Rear Boomerang Arm x1
+  - [DJI FPV Air Unit Antenna (SMA - Pair)](https://shop.iflight-rc.com/index.php?route=product/product&product_id=1031&search=antenna+dji) x1
+  - __PDB:__ [Flight SucceX PDB 2-8S 330A](https://www.banggood.com/IFlight-SucceX-PDB-2-8S-330A-w-5V-12V-BEC-for-RC-Drone-FPV-Racing-Multi-Rotor-p-1412674.html?p=LM11044296190201604E&custlinkid=213999&cur_warehouse=CN) x1~2 
+  - __ESC:__ [EMAX Formula 32 45A 2-5S BLHeli_32](https://www.banggood.com/EMAX-Formula-32-45A-2-5S-BLHeli_32-Brushless-ESC-Dshot1200-Ready-for-RC-FPV-Racing-Drone-p-1237243.html?cur_warehouse=CN) xmin5
+  - __Motors:__ [Emax ECO Series 2306 4S 2400KV Brushless Motor](https://www.banggood.com/4PCS-Emax-ECO-Series-2306-4S-2400KV-Brushless-Motor-for-RC-Drone-FPV-Racing-p-1582952.html?rmmds=search&cur_warehouse=CN) xsame_as_esc
+- __Battery:__
+  - _Batteries:_ [FULLSEND 4S 1550mAh 120C Lipo Battery - XT60](https://shop.iflight-rc.com/index.php?route=product/product&product_id=698&search=FULLSEND+4S+1550mAh+120C+Lipo+Battery+) xmin3
+  - _Battery Charger:_ [ISDT T6 Lite 600W 25A Smart Battery Balance Charger for 2S-6S Lipo Battery](https://www.banggood.com/ISDT-T6-Lite-600W-25A-Smart-Battery-Balance-Charger-for-2S-6S-Lipo-Battery-p-1229764.html?utm_source=google&utm_medium=cpc_ods&utm_campaign=arvin-led-sds-view-lightsolar-content&utm_content=arvin&gclid=CjwKCAjw7-P1BRA2EiwAXoPWAzq2VNalBQfZfoSS58qPrGPUVa7ZjYcIicC1CSFqJxgQYXOi3Io2IhoCwxsQAvD_BwE&cur_warehouse=CN)
+  - _Parallel board:_ [XT60 Plug Parallel Charging Board](https://www.banggood.com/XT60-Plug-Parallel-Charging-Board-For-ISDT-Q8-D2-Q6-T6-Lite-ToolkitRC-M6-M8-Charger-p-1091255.html?rmmds=search&cur_warehouse=CN)
+  - _Power Supply:_ [ANTIAN 24V 16.6A 400W Power Supply Adapter](https://www.banggood.com/LANTIAN-24V-16_6A-400W-Power-Supply-Adapter-for-ISDT-Q6-Pro-ToolkitRC-M8-Charger-p-1365749.html?rmmds=detail-top-buytogether-auto&cur_warehouse=CN)
+- __Extra:__
+    - [Anti-Vibration Fixed Screws](https://www.banggood.com/4-PCS-Realacc-M376-Flight-Controller-Fixed-Screws-for-FPV-Racer-p-1135527.html?rmmds=search&cur_warehouse=CN) x1
+    - [Screw Black Hex Screw Nut](https://www.banggood.com/Suleve-M3NH1-M3-Nylon-Screw-Black-Hex-Screw-Nut-Nylon-PCB-Standoff-Assortment-Kit-300pcs-p-984310.html?rmmds=search&cur_warehouse=CN)
+    - [Super Loud Buzzer](https://www.banggood.com/Finder-YR50B-Super-Loud-Buzzer-100dB-Dual-LED-for-FPV-Racing-RC-Drone-p-1585819.html?rmmds=search&cur_warehouse=CN) x1
+    - [Screwdriver for Drone RC](https://www.banggood.com/12-IN-1-Hex-1_52_02_53_0mm-Screwdriver-for-Drone-RC-Helicopter-Aircraft-Model-Repair-and-Disassembly-Tools-Set-Accessories-p-1449406.html?rmmds=search&cur_warehouse=CN)
+    - [Spedix M3 M5 Nut Screw Wrench Quick Release Propeller Motor Tool](https://www.banggood.com/Spedix-M3-M5-Nut-Screw-Wrench-Quick-Release-Propeller-Motor-Tool-for-RC-Drone-FPV-Racing-p-1375992.html?rmmds=search&cur_warehouse=CN)
