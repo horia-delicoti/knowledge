@@ -77,17 +77,26 @@ List to have from [RTF](https://www.drone-fpv-racer.com/en/iflight-titan-dc5-hd-
   - Front Boomerang Arm x1
   - Rear Boomerang Arm x1
   - [DJI FPV Air Unit Antenna (SMA - Pair)](https://shop.iflight-rc.com/index.php?route=product/product&product_id=1031&search=antenna+dji) x1
-  - __PDB:__ [Flight SucceX PDB 2-8S 330A](https://www.banggood.com/IFlight-SucceX-PDB-2-8S-330A-w-5V-12V-BEC-for-RC-Drone-FPV-Racing-Multi-Rotor-p-1412674.html?p=LM11044296190201604E&custlinkid=213999&cur_warehouse=CN) x1~2 
-  - __ESC:__ [EMAX Formula 32 45A 2-5S BLHeli_32](https://www.banggood.com/EMAX-Formula-32-45A-2-5S-BLHeli_32-Brushless-ESC-Dshot1200-Ready-for-RC-FPV-Racing-Drone-p-1237243.html?cur_warehouse=CN) xmin5
-  - __Motors:__ [Emax ECO Series 2306 4S 2400KV Brushless Motor](https://www.banggood.com/4PCS-Emax-ECO-Series-2306-4S-2400KV-Brushless-Motor-for-RC-Drone-FPV-Racing-p-1582952.html?rmmds=search&cur_warehouse=CN) xsame_as_esc
+    - [MMCX to RP-SMA Female Adapter Cable](https://shop.iflight-rc.com/index.php?route=product/product&product_id=1095)
+  - __PDB:__ [Flight SucceX PDB 2-8S 330A](https://shop.iflight-rc.com/index.php?route=product/product&product_id=748&search=SucceX+PDBN) x1~2 
+  - __ESC:__ 
+    - [SucceX-E 45A Slick BLHelis ESC Single](https://shop.iflight-rc.com/index.php?route=product/product&path=20_27_136&product_id=1124) xmin5
+    - [iFlight: SucceX-E 45A Slick BLHelis ESC Single](https://shop.iflight-rc.com/index.php?route=product/product&path=20_27_136&product_id=1124)
+  - __Motors:__
+    - [Emax ECO Series 2306 4S 2400KV Brushless Motor](https://www.banggood.com/4PCS-Emax-ECO-Series-2306-4S-2400KV-Brushless-Motor-for-RC-Drone-FPV-Racing-p-1582952.html?rmmds=search&cur_warehouse=CN) xsame_as_esc
+    - [iFlight XING-E 2207 2-6s FPV Motor](https://shop.iflight-rc.com/index.php?route=product/product&product_id=874&tracking=oBE8Dw4b2i0F6rQkkea1U94zbwmi1HP9AisENemlaS5jUHJ3BGwdEjyUl3GSUBrql)
+    - [iFlight XING X2207 2-6S FPV NextGen Motor](https://shop.iflight-rc.com/index.php?route=product/product&product_id=711)
 - __Battery:__
-  - _Batteries:_ [FULLSEND 4S 1550mAh 120C Lipo Battery - XT60](https://shop.iflight-rc.com/index.php?route=product/product&product_id=698&search=FULLSEND+4S+1550mAh+120C+Lipo+Battery+) xmin3
-  - _Battery Charger:_ [ISDT T6 Lite 600W 25A Smart Battery Balance Charger for 2S-6S Lipo Battery](https://www.banggood.com/ISDT-T6-Lite-600W-25A-Smart-Battery-Balance-Charger-for-2S-6S-Lipo-Battery-p-1229764.html?utm_source=google&utm_medium=cpc_ods&utm_campaign=arvin-led-sds-view-lightsolar-content&utm_content=arvin&gclid=CjwKCAjw7-P1BRA2EiwAXoPWAzq2VNalBQfZfoSS58qPrGPUVa7ZjYcIicC1CSFqJxgQYXOi3Io2IhoCwxsQAvD_BwE&cur_warehouse=CN)
-  - _Parallel board:_ [XT60 Plug Parallel Charging Board](https://www.banggood.com/XT60-Plug-Parallel-Charging-Board-For-ISDT-Q8-D2-Q6-T6-Lite-ToolkitRC-M6-M8-Charger-p-1091255.html?rmmds=search&cur_warehouse=CN)
-  - _Power Supply:_ [ANTIAN 24V 16.6A 400W Power Supply Adapter](https://www.banggood.com/LANTIAN-24V-16_6A-400W-Power-Supply-Adapter-for-ISDT-Q6-Pro-ToolkitRC-M8-Charger-p-1365749.html?rmmds=detail-top-buytogether-auto&cur_warehouse=CN)
+  - _Battery for DJI Goggles:_ [Lumenier 3300mAh 3s 35c Lipo Battery](https://www.getfpv.com/lumenier-3300mah-3s-35c-lipo-battery.html)
+  - _Batteries:_ [Batterie Lipo Tattu R-Line 4S 1800mAh 120C - Version 3.0](https://www.getfpv.com/tattu-r-line-version-3-0-1800mah-4s-120c-lipo-battery.html) xmin3
+  - _Battery Charger:_ [Chargeur iSDT 608AC 60W/200W 8A](https://www.getfpv.com/isdt-608ac-smart-battery-charger-ac-50w-dc-200w-8a-w-detachable-power-supply.html)
+  - _Parallel board:_ [XT60 Plug Parallel Charging Board](https://www.getfpv.com/xt60-parallel-balance-charging-board-xh-2-6s.html)
+  - _Lipo Safe Pouch:_
+    - [Lipo Safe Pouch](https://www.getfpv.com/betafpv-lipo-battery-safety-handbag.htmlhttps://www.drone-fpv-racer.com/lipo-safe-pouch-3048.html?search_query=lipo+bags&results=525)
 - __Extra:__
-    - [Anti-Vibration Fixed Screws](https://www.banggood.com/4-PCS-Realacc-M376-Flight-Controller-Fixed-Screws-for-FPV-Racer-p-1135527.html?rmmds=search&cur_warehouse=CN) x1
+    - [Anti-Vibration Fixed Screws](https://www.getfpv.com/anti-vibration-flight-controller-standoff-7mm.htmlN) x1
     - [Screw Black Hex Screw Nut](https://www.banggood.com/Suleve-M3NH1-M3-Nylon-Screw-Black-Hex-Screw-Nut-Nylon-PCB-Standoff-Assortment-Kit-300pcs-p-984310.html?rmmds=search&cur_warehouse=CN)
-    - [Super Loud Buzzer](https://www.banggood.com/Finder-YR50B-Super-Loud-Buzzer-100dB-Dual-LED-for-FPV-Racing-RC-Drone-p-1585819.html?rmmds=search&cur_warehouse=CN) x1
-    - [Screwdriver for Drone RC](https://www.banggood.com/12-IN-1-Hex-1_52_02_53_0mm-Screwdriver-for-Drone-RC-Helicopter-Aircraft-Model-Repair-and-Disassembly-Tools-Set-Accessories-p-1449406.html?rmmds=search&cur_warehouse=CN)
-    - [Spedix M3 M5 Nut Screw Wrench Quick Release Propeller Motor Tool](https://www.banggood.com/Spedix-M3-M5-Nut-Screw-Wrench-Quick-Release-Propeller-Motor-Tool-for-RC-Drone-FPV-Racing-p-1375992.html?rmmds=search&cur_warehouse=CN)
+      - [Black Polyamide Standoff Set (6mm)](https://www.getfpv.com/index.php/black-polyamide-standoff-set-6mm.html?ccartCamp=65956434.2&recoSrc=6m-dl-multisess-alpha-abt:7676) 
+      - [ Black Polyamide Standoff Set (10mm)](https://www.getfpv.com/black-standoff-set.html)
+    - [Super Loud Buzzer](https://www.getfpv.com/matek-lost-model-beeper-fpv-fc-5v-loud-buzzer.html) x1
+    - [Ethix Tool Case](https://www.getfpv.com/ethix-tool-case.html)
