@@ -1,24 +1,23 @@
 # My drone fpv
-
- - __Frame:__ [TBS Source One 5" Frame V3](https://www.getfpv.com/tbs-source-one-5-frame-v3.html)
-   - Spare parts:
-     - [TBS Source One V0.3 - 5 Inch Spare Arms](https://www.getfpv.com/index.php/tbs-source-one-v0-3-5-inch-spare-arms-2pcs.html?ccartCamp=65956434.2&recoSrc=6m-dl-multisess-alpha-abt:6770)
- - __FC:__ [iFlight SucceX-D F7 TwinG Flight Controller (HD Version)](https://www.getfpv.com/iflight-succex-d-f7-twing-flight-controller-hd-version.html)
- - __PDB:__ [Flight SucceX PDB 2-8S 330A](https://www.banggood.com/IFlight-SucceX-PDB-2-8S-330A-w-5V-12V-BEC-for-RC-Drone-FPV-Racing-Multi-Rotor-p-1412674.html?p=LM11044296190201604E&custlinkid=213999&cur_warehouse=CN) 
- - __[ESC](https://www.getfpv.com/electronics/electronic-speed-controllers-esc/single-esc.html?dir=asc&esc_voltage=824&order=price):__ 
-   - [4X EMAX Formula 32 45A 2-5S BLHeli_32 Brushless ESC Dshot1200 Ready for RC FPV Racing Drone](https://www.banggood.com/4X-EMAX-Formula-32-45A-2-5S-BLHeli_32-Brushless-ESC-Dshot1200-Ready-for-RC-FPV-Racing-Drone-p-1257441.html?rmmds=detail-left-hotproducts__1&cur_warehouse=CN)
-   - [EMAX D-SHOT Bullet Series 20A ESC(BLHELI_S)](https://www.getfpv.com/emax-d-shot-bullet-series-20a-esc-blheli-s.html)
-   - [XILO 40A BLHeli_S 2-4s ESC](https://www.getfpv.com/xilo-40a-blheli-s-2-4s-esc.html)
-   - [Flycolor Raptor SLIM 40A BL_S ESC (2-4s)](https://www.team-blacksheep.com/products/prod:flycolor_slim_40a)
- - __Motor:__ [EMAX ECO 2207 Brushless Motor](https://www.getfpv.com/emax-eco-2207-brushless-motor.html)
- - __Propellers:__ [Gemfan Flash 5144 Propeller](https://www.getfpv.com/gemfan-flash-5144-propeller-set-of-4-choose-color.html)
- - __Battery:__ [Tattu R-Line Version 3.0 1800mAh 4s 120C Lipo Battery](https://www.getfpv.com/tattu-r-line-version-3-0-1800mah-4s-120c-lipo-battery.html)
- - __Battery Strap:__ [Ethix Lipo Strap](https://www.getfpv.com/ethix-lipo-strap-4pcs.html)
- - __Battery Charger:__ [ISDT T6 Lite 600W 25A Smart Battery Balance Charger for 2S-6S Lipo Battery](https://www.banggood.com/ISDT-T6-Lite-600W-25A-Smart-Battery-Balance-Charger-for-2S-6S-Lipo-Battery-p-1229764.html?utm_source=google&utm_medium=cpc_ods&utm_campaign=arvin-led-sds-view-lightsolar-content&utm_content=arvin&gclid=CjwKCAjw7-P1BRA2EiwAXoPWAzq2VNalBQfZfoSS58qPrGPUVa7ZjYcIicC1CSFqJxgQYXOi3Io2IhoCwxsQAvD_BwE&cur_warehouse=CN)
- - __Goggles:__ [DJI Digital HD FPV Goggles](https://www.getfpv.com/dji-digital-hd-fpv-goggles.html)
- - __Air Unit Module:__ [DJI Digital HD FPV Air Unit (FPV Camera + Air Unit Module)](https://www.getfpv.com/dji-digital-hd-fpv-air-unit.html) 
- - __Remote Controller:__ [DJI remote controller](https://www.getfpv.com/dji-fpv-remote-controller-mode-2.html)
+- __Goggles:__ [DJI Digital HD FPV Goggles](https://www.drone-fpv-racer.com/en/dji-digital-hd-fpv-goggles-5133.html)
+  - [Tattu 2S - 2500mAh for FPV goggles](https://www.drone-fpv-racer.com/en/tattu-2s-2500mah-for-fpv-goggles-1481.html)
+  - [Analog FPV FatShark Module Adapter for DJI Digital FPV Goggles](https://www.drone-fpv-racer.com/en/analog-fpv-fatshark-module-adapter-for-dji-digital-fpv-goggles-5890.html)
+- __Air Unit Module:__ [DJI Digital HD FPV Air Unit](https://www.drone-fpv-racer.com/en/dji-fpv-experience-combo-5131.html) 
+- __Remote Controller:__ [DJI FPV Remote Controller](https://www.drone-fpv-racer.com/en/dji-fpv-remote-controller-mode-2-5279.html?search_query=dji&results=118)
  
+- __Frame:__ [Iflight Titan DC5 HD Frame V1.3](https://www.drone-fpv-racer.com/en/iflight-titan-dc5-hd-frame-v13-5935.html?search_query=Titan+DC5+frame&results=715)
+  - [TBS Source One 5" Frame V3](https://www.drone-fpv-racer.com/en/tbs-source-one-5-frame-v3-5013.html?search_query=+TBS+Source+One+5%22+Frame+V3&results=1062)
+    - [TBS Source One V0.3 - 5 Inch Spare Arms](https://www.getfpv.com/index.php/tbs-source-one-v0-3-5-inch-spare-arms-2pcs.html?ccartCamp=65956434.2&recoSrc=6m-dl-multisess-alpha-abt:6770)
+- __FC:__ [iFlight SucceX-D F7 TwinG Flight Controller (HD Version)](https://www.drone-fpv-racer.com/en/iflight-succex-f7-twing-flight-controller-hd-version-5446.html)
+- __PDB:__ [Flight SucceX PDB 2-8S 330A](https://shop.iflight-rc.com/index.php?route=product/product&product_id=748&search=SucceX+PDBN) 
+- __ESC:__ [SucceX-E 45A Slick BLHelis ESC Single](https://shop.iflight-rc.com/index.php?route=product/product&path=20_27_136&product_id=1124)
+- __Motor:__ [Iflight XING Unibell 2207 - 2450Kv Race motor](https://www.drone-fpv-racer.com/en/iflight-xing-unibell-2207-2450kv-race-motor-5439.html?search_query=XING+X2207+2-6S+FPV+NextGen+Motor&results=1223)
+- __Propellers:__
+  - [Gemfan Flash 5144 Propeller](https://www.drone-fpv-racer.com/en/gemfan-flash-5144-4pcs-4889.html?search_query=Gemfan+Flash+5144+Propeller&results=445)
+  - [Nazgul 5140 Tri-blades](https://shop.iflight-rc.com/index.php?route=product/product&product_id=964&search=Nazgul+5140+propellers)
+- __Battery:__ [Tattu R-Line Version 3.0 1550mAh 4s 120C Lipo Battery](https://www.gensace.de/fpv-lipo-battery?cat=415&discharge_rate=342&voltage=148)
+  - __Battery Strap:__ [Ethix Lipo Strap](https://www.getfpv.com/ethix-lipo-strap-4pcs.html)
+  - __Battery Charger:__ [ISDT T6 Lite 600W 25A Smart Battery Balance Charger for 2S-6S Lipo Battery](https://www.banggood.com/ISDT-T6-Lite-600W-25A-Smart-Battery-Balance-Charger-for-2S-6S-Lipo-Battery-p-1229764.html?utm_source=google&utm_medium=cpc_ods&utm_campaign=arvin-led-sds-view-lightsolar-content&utm_content=arvin&gclid=CjwKCAjw7-P1BRA2EiwAXoPWAzq2VNalBQfZfoSS58qPrGPUVa7ZjYcIicC1CSFqJxgQYXOi3Io2IhoCwxsQAvD_BwE&cur_warehouse=CN)
 - Optional Accessories:
   - [DJI Compatible Frames](https://www.racedayquads.com/collections/designed-for-dji-digital-fpv)
   - [Frame 3D print](https://www.drone-fpv-racer.com/en/188-frame-s-3d-prints#/hd-dji_fpv)
@@ -29,19 +28,19 @@
 
 # Link
 
- - [fpvknowitall](https://www.fpvknowitall.com/)
- - [iflight](https://shop.iflight-rc.com/index.php?route=common/home)
- - [drone-fpv-racer](https://www.drone-fpv-racer.com/)
- - [getfpv](https://www.getfpv.com/)
- - [myairbot](https://store.myairbot.com/)
- - [rotorbuild](https://rotorbuilds.com/build/19008)
- - [unmannedtechshop](https://www.unmannedtechshop.co.uk/)
- - [team-blacksheep](https://www.team-blacksheep.com/products/prod:source_one_5in)
- - [uavcoach](https://uavcoach.com/fpv-quadcopter-drone-systems/)
- - [cnydrones](https://www.cnydrones.org/flight-modes-angle-horizon-acro-what-do-they-mean/)
- - [dronetest](https://blog.dronetrest.com/)
- - [oscarling](https://oscarliang.com/)
- - [How Setup DJI FPV System for the First Time](https://oscarliang.com/dji-fpv-system-setup/)
+- [fpvknowitall](https://www.fpvknowitall.com/)
+- [iflight](https://shop.iflight-rc.com/index.php?route=common/home)
+- [drone-fpv-racer](https://www.drone-fpv-racer.com/)
+- [getfpv](https://www.getfpv.com/)
+- [myairbot](https://store.myairbot.com/)
+- [rotorbuild](https://rotorbuilds.com/build/19008)
+- [unmannedtechshop](https://www.unmannedtechshop.co.uk/)
+- [team-blacksheep](https://www.team-blacksheep.com/products/prod:source_one_5in)
+- [uavcoach](https://uavcoach.com/fpv-quadcopter-drone-systems/)
+- [cnydrones](https://www.cnydrones.org/flight-modes-angle-horizon-acro-what-do-they-mean/)
+- [dronetest](https://blog.dronetrest.com/)
+- [oscarling](https://oscarliang.com/)
+- [How Setup DJI FPV System for the First Time](https://oscarliang.com/dji-fpv-system-setup/)
 
 # RTF
 - [TBS Source One Quadcopter RTF](https://www.getfpv.com/tbs-source-one-quadcopter-rtf-1700kv-2400kv.html)
@@ -78,9 +77,7 @@ List to have from [RTF](https://www.drone-fpv-racer.com/en/iflight-titan-dc5-hd-
   - Rear Boomerang Arm x1
   - [DJI FPV Air Unit Antenna (SMA - Pair)](https://shop.iflight-rc.com/index.php?route=product/product&product_id=1031&search=antenna+dji) x1
     - [MMCX to RP-SMA Female Adapter Cable](https://shop.iflight-rc.com/index.php?route=product/product&product_id=1095)
-  - __PDB:__ [Flight SucceX PDB 2-8S 330A](https://shop.iflight-rc.com/index.php?route=product/product&product_id=748&search=SucceX+PDBN) x1~2 
-  - __ESC:__ 
-    - [SucceX-E 45A Slick BLHelis ESC Single](https://shop.iflight-rc.com/index.php?route=product/product&path=20_27_136&product_id=1124) xmin5
+ 
     - [iFlight: SucceX-E 45A Slick BLHelis ESC Single](https://shop.iflight-rc.com/index.php?route=product/product&path=20_27_136&product_id=1124)
   - __Motors:__
     - [Emax ECO Series 2306 4S 2400KV Brushless Motor](https://www.banggood.com/4PCS-Emax-ECO-Series-2306-4S-2400KV-Brushless-Motor-for-RC-Drone-FPV-Racing-p-1582952.html?rmmds=search&cur_warehouse=CN) xsame_as_esc
