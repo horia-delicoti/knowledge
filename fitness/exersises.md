@@ -6,5 +6,16 @@
 - 2 x 1 min - One leg plank (for abductor)
 - 2 x 1 min - One leg back plank (switch legs at 30s)
 
-### Lower body
-- 
+### Lower body 
+
+### Other
+#### Workout #1
+- Warm-up (speciale, 1 easy run lap)
+- Up-hill training (x3)
+  - knees up running
+  - pas saltat
+  - picior drept, lovit in jos
+- 6 x 100m 
+  - 0  - 50m  - 50%
+  - 50 - 100m - 80%
+- Porumbel, cavaler, broscuta, abdomene
