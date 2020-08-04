@@ -1,10 +1,10 @@
 # Ruby
 
 ## [Books](https://github.com/horia-delicoti/books#ruby)
+- [Ruby - open source programming language](https://www.ruby-lang.org/en/)
+- [Ruby-Doc](https://ruby-doc.org/)
 
 ## Links
-
-- [Ruby](https://www.ruby-lang.org/en/)
 - [Ruby is nice, but what makes great?](https://www.reddit.com/r/ruby/comments/8ysh41/ruby_is_nice_but_what_makes_great/)
 - [Clean code ruby](https://github.com/uohzxela/clean-code-ruby#readme) - Clean Code concepts adapted for Ruby.
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)

@@ -25,6 +25,10 @@
   - [DJI HD FPV Stock Antenna Mount](https://www.brain3d.co/collections/hd-antenna-sets/products/dji-hd-fpv-stock-antenna-mount-2-piece-mount?variant=31638668017751)
 
 # Notes
+- [iFlight SucceX 50A V2 2-6S 32bit BLHELI-32 Dshot1200 Single ESC built-in LED/telemetry/current sensor for FPV drone](https://www.aliexpress.com/i/4000740499133.html?spm=2114.12057483.0.0.7c062e90NfX5vR)
+- [iFlight 36x36mm SucceX 2-8S(5-36V) PDB Power Distribution ](https://www.aliexpress.com/i/33042703177.html)
+- [How to build](https://dronenodes.com/how-to-build-a-drone/)
+
 
 # Link
 
