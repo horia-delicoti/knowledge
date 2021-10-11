@@ -4,11 +4,15 @@
 - Synology DS718+ ([User Manual](https://global.download.synology.com/download/Document/Hardware/HIG/DiskStation/18-year/DS718+/enu/Syno_HIG_DS718_Plus_enu.pdf))
 - 1  CPU Intel Celeron J3455 1,5 GHz Boost 2,3 GHz with 4 CORE
 
+# Certificate
+- [ssls.com](https://www.ssls.com/)
+
 # Links
 - [mariushosting](https://mariushosting.com/)
 - [Synology Tutorial & FAQ](https://www.synology.com/en-global/knowledgebase/DSM/tutorial)
 - [what is my dns](https://www.whatsmydns.net/)
 - [dig(1) - Linux man page](https://linux.die.net/man/1/dig)
+- [google admin toolbox dig](https://toolbox.googleapps.com/apps/dig/)
 - [nslookup(1) - Linux man page](https://linux.die.net/man/1/nslookup)
 
 # How to:

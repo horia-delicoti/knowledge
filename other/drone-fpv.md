@@ -101,3 +101,10 @@ List to have from [RTF](https://www.drone-fpv-racer.com/en/iflight-titan-dc5-hd-
       - [ Black Polyamide Standoff Set (10mm)](https://www.getfpv.com/black-standoff-set.html)
     - [Super Loud Buzzer](https://www.getfpv.com/matek-lost-model-beeper-fpv-fc-5v-loud-buzzer.html) x1
     - [Ethix Tool Case](https://www.getfpv.com/ethix-tool-case.html)
+
+- [How to Charge and Parallel Charge Lipo Batteries](https://www.youtube.com/watch?v=IJiqTWvymCA)
+  - 4S -> 16.8V (Fully charged)
+  - 4S -> 15.2V (Store long term at 3.8V per cell)
+
+- [DJI System Activation and Updating Firmware](https://www.youtube.com/watch?v=YWAcbkIf-kE&list=PL65kukZorPdPAt7GM1rVrLyA_3Lw5X-U2)
+- [Betaflight 3.4 and 3.5 setup for total beginners](https://www.youtube.com/watch?v=xmaTq4JgTXI)
