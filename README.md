@@ -1,3 +1,3 @@
-# [My Knowledge Wiki](https://horia-delicoti.gitbook.io/my-space/)
+# README
 
-This is my personal [wiki online GitBook](https://horia-delicoti.gitbook.io/my-space/) hosted on [GitHub](https://github.com/horia-delicoti/knowledge).
+This is my wiki in form of an [online Gitbook](https://horia-delicoti.gitbook.io/wiki/) hosted on [Github](https://github.com/horia-delicoti/knowledge)
