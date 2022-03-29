@@ -5,5 +5,8 @@
 - [Life](life/life.md)
   - [Happiness](life/happiness.md)
   - [Parenting](life/parenting.md)
+- [DevOps](devops/devops.md)
+  - [Ansible](devops/ansible.md)
+  - [Terraform](devops/terraform.md)
 - [Work](work/work.md)
   - [Remote Work](work/remote-work.md)
