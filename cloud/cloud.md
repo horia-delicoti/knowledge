@@ -3,6 +3,7 @@
 # DS718+ Configuration
 - Synology DS718+ ([User Manual](https://global.download.synology.com/download/Document/Hardware/HIG/DiskStation/18-year/DS718+/enu/Syno_HIG_DS718_Plus_enu.pdf))
 - 1  CPU Intel Celeron J3455 1,5 GHz Boost 2,3 GHz with 4 CORE
+- HDD: HDD intern Seagate, 3.5", 4TB, Ironwolf Pro, SATA 3, 7200rpm, 256MB
 
 # Certificate
 - [ssls.com](https://www.ssls.com/)
