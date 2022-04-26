@@ -1,3 +1,7 @@
+# Remote work
+
+- [Remove jobs Lever.co](https://jobs.lever.co/kraken/57f86f85-acfa-40ac-83b2-ba200c8e0d83)
+
 # Links
 
 - [Remote habits](https://remotehabits.com/)
