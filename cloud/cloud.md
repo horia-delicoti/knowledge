@@ -27,3 +27,4 @@
 - [AdGuard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction) - [Install AdGuard on Your Synology NAS](https://mariushosting.com/how-to-install-adguard-on-your-synology-nas/)
 - [Clearing Ubiquiti UniFi USG DNS entries](https://durdle.com/2018/09/17/clearing-ubiquiti-unifi-usg-dns-entries/)
 - [Synology SSD Cache Setup](https://techthoughts.info/synology-ssd-cache-setup-testing/) - [SSD Cache](https://www.synology.com/en-global/knowledgebase/DSM/help/DSM/StorageManager/genericssdcache)
+- [Setup L2TP VPN Server](https://www.wintips.org/how-to-setup-synology-nas-as-l2tp-vpn-server/)

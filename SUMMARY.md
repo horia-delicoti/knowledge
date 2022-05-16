@@ -8,5 +8,7 @@
 - [DevOps](devops/devops.md)
   - [Ansible](devops/ansible.md)
   - [Terraform](devops/terraform.md)
+- [Programming Languages]()
+  - [Python](programming_languages/python.md)
 - [Work](work/work.md)
   - [Remote Work](work/remote-work.md)
