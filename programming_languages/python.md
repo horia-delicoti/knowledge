@@ -4,9 +4,11 @@
 - [Python cheatsheet 1](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) - [Python Cheatsheet 2](https://www.pythoncheatsheet.org/)
 - [100DaysOfCode in Python Course](https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python) - [Git](https://github.com/talkpython/100daysofcode-with-python-course/tree/master/days)
 - [Hack in science](https://www.hackinscience.org/exercises/) 
+- [Leet Code](https://leetcode.com/)
 
 ## Links
 
+- [Python Project Begginer](https://github.com/topics/python-project-beginner) - [Python projects ideas](https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/#8_Binary_search_algorithm)
 - [Python Certification](https://www.guru99.com/python-programming-certification.html#3)
 - [A non-magical introduction to Pip and Virtualenv for Python beginners](https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/)
 - [Learn and Master Python in a Month](https://medium.com/@jhankar.mahbub/learn-and-master-python-in-a-month-b1acc94d5f32)
@@ -22,6 +24,7 @@
 - [Awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
 - [30 Python Language Features and Tricks You May Not Know About](https://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 - [Official Style Guide for Python](https://peps.python.org/pep-0008/)
+- [Top 30 github python projects](https://towardsdatascience.com/top-30-github-python-projects-at-the-beginning-of-2022-86b1e3dad1a)
 - [Dive Into Python 3](https://diveintopython3.net/index.html)
 - [What Can I Do With Python?](https://realpython.com/what-can-i-do-with-python/#python-in-the-real-world)
 - [Learn Python](https://www.learnpython.org/)
