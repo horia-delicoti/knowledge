@@ -2,8 +2,8 @@
 
 - [Automation](automation/automation.md)
   - [Home Automation](automation/home_automation.md)
-- [Cloud Computing]()
-  - [AWS](cloud-computing/aws)
+- [Cloud Computing](cloud-computing/cloud_computing.md)
+  - [AWS](cloud-computing/aws.md)
 - [Life](life/life.md)
   - [Happiness](life/happiness.md)
   - [Parenting](life/parenting.md)
