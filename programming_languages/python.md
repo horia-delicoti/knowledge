@@ -4,6 +4,7 @@
 - [Python cheatsheet 1](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) - [Python Cheatsheet 2](https://www.pythoncheatsheet.org/)
 - [Hack in science](https://www.hackinscience.org/exercises/) 
 - [Leet Code](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/dashboard)
 - [Learn and Master Python in a Month](https://medium.com/@jhankar.mahbub/learn-and-master-python-in-a-month-b1acc94d5f32)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
@@ -33,6 +34,7 @@
 - [Data Structures and Algorithms in Python](https://jovian.ai/learn/data-structures-and-algorithms-in-python)
 - [Free python books](https://github.com/pamoroso/free-python-books)
 - [Python books](https://towardsdatascience.com/python-books-you-must-read-in-2020-a0fc33798bb)
+- [How to become a python developer](https://medium.com/edureka/how-to-become-a-python-developer-462a0093f246)
 
 ## Course
 
@@ -41,3 +43,7 @@
 - [The Complete Python 3 Course: Beginner to Advanced!](https://www.udemy.com/course/python-complete/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-mRHI6QNWly4bUtZDioamew&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
 - [2022 Complete Python Bootcamp From Zero to Hero in Python]()
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2022]()
+
+## Interview
+- Cracking the coding interview
+- Elements of programming interview in python
