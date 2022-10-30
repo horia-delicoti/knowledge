@@ -9,3 +9,4 @@
 - [Baby or Toddler Throwing Food on the Floor?](https://solidstarts.com/baby-or-toddler-throwing-food-on-the-floor/)
 - [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 - [4 in 1 kids trike](https://gearven.com/products/4-in-1-kids-trike)
+- [How do I start my child coding](https://www.raspberrypi.org/blog/how-do-i-start-my-child-coding/)
