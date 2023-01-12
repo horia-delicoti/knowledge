@@ -18,5 +18,6 @@
 - [Security]()
   - [Cryptography]()
   - [Cybersecurity](security/cybersecurity/cybersecurity.md)
+  - [Steganography](security/cybersecurity/steganography.md)
 - [Work](work/work.md)
   - [Remote Work](work/remote-work.md)
