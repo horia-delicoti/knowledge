@@ -47,3 +47,54 @@
 ## Interview
 - Cracking the coding interview
 - Elements of programming interview in python
+
+## Python3 Virtualenv Setup
+
+##### Requirements
+* Python 3
+* Pip 3
+
+```bash
+$ brew install python3
+```
+
+Pip3 is installed with Python3
+
+##### Installation
+To install virtualenv via pip run:
+```bash
+$ pip3 install virtualenv
+```
+
+##### Usage
+Creation of virtualenv:
+```bash
+$ virtualenv -p python3 <desired-path>
+```
+
+Activate the virtualenv:
+```bash
+$ source <desired-path>/bin/activate
+```
+
+Deactivate the virtualenv:
+```bash
+$ deactivate
+```
+
+Python has been installed as
+```sh
+  /usr/local/bin/python3
+```
+
+You can install Python packages with
+```bash
+  pip3 install <package>
+```
+
+They will install into the site-package directory
+```bash
+  /usr/local/lib/python3.11/site-packages
+```
+
+[About Virtualenv](https://virtualenv.pypa.io/en/stable/)
