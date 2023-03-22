@@ -23,6 +23,16 @@
 - [myl2](https://myl2.ro/ro/)
 - [Lazy Admin - Best home automation ideas](https://lazyadmin.nl/home-network/best-home-automation-ideas/)
 
+### NAS
+
+- [Installing an SSL certificate on Synology NAS](https://www.namecheap.com/support/knowledgebase/article.aspx/9635/33/installing-an-ssl-certificate-on-synology-nas/)
+- [Wyze Cam RTSP](https://support.wyze.com/hc/en-us/articles/360026245231-Wyze-Cam-RTSP)
+
+### Unifi
+
+- [UniFi Network - Configuring Site-to-Site VPNs](https://help.ui.com/hc/en-us/articles/360002426234-UniFi-Network-Configuring-Site-to-Site-VPNs)
+- [How to: Troubleshoot IPsec VPN on USG](https://kx.cloudingenium.com/ubiquiti/unifi/usg/how-to-troubleshoot-ipsec-vpn-on-usg/)
+
 ### Devices
 
 - [Intelligent HEPA ionizer air purifier CA-509D](https://www.cleanairoptima.com/air-purifiers/intelligent-hepa-ionizer-air-purifier-ca-509d/i/304/)
@@ -45,6 +55,8 @@
 hassio dns info
 ```
 
-###
+### Dashboard and launcher
 
-- [HomerGX](https://github.com/GeorgeGedox/HomerGX)
+- [HomerGX](https://github.com/GeorgeGedox/HomerGX) - [Homer](https://github.com/bastienwirtz/homer)
+- [Heimdall](https://github.com/linuxserver/Heimdall)
+- [HTPC Download Box](https://github.com/sebgl/htpc-download-box#setup-jackett) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex 

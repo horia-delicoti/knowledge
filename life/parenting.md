@@ -22,3 +22,4 @@
 - [Reasons Why French Children Are Well-Behaved](https://www.momjunction.com/trending/reasons-why-french-children-are-well-behaved_00980203/)
 - [7 One-Liners to Use When Disciplining Kids](https://www.parents.com/parenting/better-parenting/advice/one-liners-to-use-when-disciplining-kids/)
 - [I raised 2 successful CEOs and a doctor. Here’s the No. 1 skill I wish more parents taught their kids today](https://www.cnbc.com/2022/12/03/i-raised-2-successful-ceos-and-a-doctor-heres-the-no-1-skill-parents-are-failing-to-teach-kids-today.html)
+- [Harvard psychologist to parents: Do these 7 things if you want to raise kids with flexible, resilient brains](https://www.cnbc.com/2020/12/08/harvard-psychologist-rules-for-raising-intelligent-kids-with-resilient-brains.html)

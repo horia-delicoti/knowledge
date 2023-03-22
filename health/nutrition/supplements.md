@@ -2,6 +2,9 @@
 
 ## Notes
 
+- [Joint Nutrition Animal Flex](https://www.suplimente.ro/articulatii-si-piele/msm/universal-animal-flex)
+Animal Flex is joint nutrition which contains supportive substances for bones, joints and cartilages. In addition, it is enriched by vitamin C which contributes to collagen production
+
 [Electrolytes](https://en.wikipedia.org/wiki/Electrolyte)
 - are minerals that carry an electric charge. They’re found in your blood, urine and sweat and are vital to specific processes that keep your body functioning as it should.
 - are commonly found in fruit juices, sports drinks (but these have added sugar), milk, nuts, and many fruits and vegetables (whole or in juice form) (e.g., potatoes, avocados). 

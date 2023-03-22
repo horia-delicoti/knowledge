@@ -13,6 +13,10 @@
 
 - [Complete 20 Min ABS Workout | Follow Along](https://www.youtube.com/watch?v=XgI_p8bKg78)
 
+### Day 3: Back exercise
+
+- [Home Back Workout](https://www.youtube.com/watch?v=qqEw8XH-feI)
+
 
 ### Links
 - [5 day dumbbell workout](https://www.muscleandstrength.com/workouts/5-day-dumbbell-only-workout-split)

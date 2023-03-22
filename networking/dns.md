@@ -1,0 +1,7 @@
+# DNS
+
+## Commands
+
+```sh
+nslookup
+```

@@ -6,6 +6,8 @@
 - 2 x 1 min - One leg plank (for abductor)
 - 2 x 1 min - One leg back plank (switch legs at 30s)
 
+- [Complete 20 min abs workout](https://youtu.be/8PwoytUU06g?t=97)
+
 ### Lower body 
 
 ### Other
