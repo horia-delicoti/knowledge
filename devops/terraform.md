@@ -3,6 +3,7 @@
 - [Terraform](https://www.terraform.io/)
 - [Terraform Registry](https://registry.terraform.io/)
 - [Learn Terraform](https://learn.hashicorp.com/terraform)
+- [Prepare for the exam](https://www.hashicorp.com/certification/terraform-associate)
 
 ## Links
 
