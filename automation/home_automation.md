@@ -11,6 +11,7 @@
 
 - [Home Assitant](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first [Web](https://www.home-assistant.io/) [Web Code](https://github.com/home-assistant/home-assistant.io)
 - [Home Assitant Community Store](https://github.com/hacs/integration) - Manage (Install, track, upgrade) and discover custom elements for Home Assistant.
+- [Awesome Home Assistant](https://www.awesome-ha.com/)
 - [Conbee2](https://phoscon.de/en/conbee2)
   - [How to install conbee on synology nas](https://community.home-assistant.io/t/how-to-install-conbee-on-synology-nas/101029/2)
 - [Home Assitant Supervisor](https://github.com/home-assistant/supervisor) - Container-based system for managing your Home Assistant Core installation and related applications
