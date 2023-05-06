@@ -21,3 +21,5 @@
   - 0  - 50m  - 50%
   - 50 - 100m - 80%
 - Porumbel, cavaler, broscuta, abdomene
+
+- [Cristiano Ronaldo's Secrets](https://www.gogoalshop.cc/blog/detail/2022-Cristiano-Ronaldo-s-Secrets-Workout-fitness-Routine-and-Diet-Plan/1663)
