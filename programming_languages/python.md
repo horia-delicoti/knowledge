@@ -44,6 +44,12 @@
 - [2022 Complete Python Bootcamp From Zero to Hero in Python]()
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2022]()
 
+## Projects
+
+- [57 Fun (and Unique) Python Project Ideas](https://www.dataquest.io/blog/python-projects-for-beginners/)
+- [Python projects you can build](https://realpython.com/tutorials/projects/)
+- [Python Projects](https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/)
+
 ## Interview
 - Cracking the coding interview
 - Elements of programming interview in python
