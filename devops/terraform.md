@@ -14,34 +14,60 @@
 
 ## Commands
 
+Terraform cli [commands](https://developer.hashicorp.com/terraform/cli/commands)
 ```sh
 terraform init
-```
-```sh
 terraform plan
-```
-```sh
+terraform plan -refresh=false # don't refresh state
+terraform plan -out=<filename> # save terraform plan to specific file
+terraform refresh
 terraform apply
-```
-```sh
 terraform destroy -target <provider_resource_type>.<local_resource_name>
 ```
+
 ```sh
-terraform refresh
+```
+```sh
+```
+```sh
+```
+```sh
 ```
 Test [built-in functions](https://developer.hashicorp.com/terraform/language/functions) in console
 ```sh
 terraform console
 ```
-Format a terraform file
+
+Format a Terraform file [link](https://developer.hashicorp.com/terraform/cli/commands/fmt)
 ```sh
 terraform fmt
 ```
-Debugging terraform plan
+
+Debugging Terraform code with [environment variables](https://developer.hashicorp.com/terraform/cli/config/environment-variables)
 ```sh
 export TF_LOG_PATH=/tmp/terraform.log
+export TF_LOG=TRACE
 ```
-Check terraform file if is syntactically valid
-```
+
+Check Terraform file if is [syntactically valid](https://developer.hashicorp.com/terraform/cli/commands/validate)
+```sh
 terraform validate
+```
+
+[Provisioners](https://www.terraform.io/language/resources/provisioners/local-exec)
+```sh
+local-exec
+remote-exec
+null resource
+on_failure
+```
+
+Implementing the standard lifecycle but takes no further action [link](https://registry.terraform.io/providers/hashicorp/null/latest/docs/resources/resource)
+```sh
+null_resource
+```
+
+[Terraform workspace](https://developer.hashicorp.com/terraform/language/state/workspaces)
+```sh
+terraform workspace -h
 ```
