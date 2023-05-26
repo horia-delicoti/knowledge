@@ -7,6 +7,7 @@
 - [HackerRank](https://www.hackerrank.com/dashboard)
 - [Learn and Master Python in a Month](https://medium.com/@jhankar.mahbub/learn-and-master-python-in-a-month-b1acc94d5f32)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Geek for geeks - Learn Data structures and algorithms](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm)
 
 ## Links
 
