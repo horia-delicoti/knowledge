@@ -3,4 +3,12 @@
 ## Links
 
 - [Individual Training Session For Footballers | First Touch, Dribbling and Finishing Drills](https://www.youtube.com/watch?v=AesPWLtCQR4)
+
+## Footwork
+
+- [15 Fast Footwork Exercises | Increase Your Foot Speed With These Speed Ladder Drills](https://www.youtube.com/watch?v=tMY5Cj39xN8)
+
+## Close ball control
+
 - [Improve Your Close Control Dribbling | Full Individual Dribbling Training Session](https://www.youtube.com/watch?v=GvW_xScj-Lc)
+- [How To Improve Close Ball Control | Full Individual Ball Mastery Training Session](https://www.youtube.com/watch?v=tFKdL_a31Pg)
