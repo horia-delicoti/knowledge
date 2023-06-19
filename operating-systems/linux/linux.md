@@ -1,6 +1,14 @@
-# [Linux](https://github.com/torvalds/linux)
+# Linux
 
+- [Linux](https://github.com/torvalds/linux)
+
+- [The Linux Programming Interface](https://man7.org/tlpi/)
 - [Linux system administration essentials LFS207](https://training.linuxfoundation.org/training/linux-system-administration-essentials-lfs207/) - [E-Learning Classes](https://trainingportal.linuxfoundation.org/learn/course/linux-system-administration-essentials-lfs207/course-introduction/course-information) - [LFS207 Class Forum](https://forum.linuxfoundation.org/categories/lfs207-class-forum)
+
+## Kernel
+
+- [Kernel newbies](https://kernelnewbies.org/)
+- [The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/)
 
 ## Notes
 
