@@ -3,6 +3,7 @@
 ## Links
 
 - [Individual Training Session For Footballers | First Touch, Dribbling and Finishing Drills](https://www.youtube.com/watch?v=AesPWLtCQR4)
+- [Full Body Strength Workout & Technical Training Session ](https://www.youtube.com/watch?v=3lnQjuwfwcM)
 
 ## Strating the day
 
