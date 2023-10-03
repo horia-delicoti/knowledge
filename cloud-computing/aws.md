@@ -10,6 +10,7 @@ AWS has a [nice free tier](https://aws.amazon.com/free/).
 - [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html) ([HN](https://news.ycombinator.com/item?id=20138409))
 - [10 fun hands-on projects to learn AWS](https://acloudguru.com/blog/engineering/10-fun-hands-on-projects-to-learn-aws)
 - [Get hands-on practice](https://deloittedevelopment.udemy.com/labs/listing/)
+- [AWS Practiciner Cert Notes](https://github.com/Furkan-Gulsen/aws-certified-cloud-practitioner-certification-my-notes)
 
 ## [Which aws certification should I take](https://acloudguru.com/blog/engineering/which-aws-certification-should-i-take#h-are-aws-certifications-worth-it-in-2022)
 
