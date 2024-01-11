@@ -10,6 +10,8 @@
 - [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 - [4 in 1 kids trike](https://gearven.com/products/4-in-1-kids-trike)
 - [How do I start my child coding](https://www.raspberrypi.org/blog/how-do-i-start-my-child-coding/)
+- [The 4 Types of Parenting Styles and How Kids Are Affected](https://www.verywellfamily.com/types-of-parenting-styles-1095045)
+- [30 Little Things That Mean a Lot to Kids](https://www.parents.com/parenting/better-parenting/positive/30-little-things-that-mean-a-lot-to-kids/)
 
 
 ## Fatherly
