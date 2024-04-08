@@ -18,6 +18,7 @@
   - [Nmap](networking/nmap.md)
 - [Operating Systems](operating-systems/o.md)
   - [Linux](operating-systems/linux/linux.md)
+    - [Cheat Sheet](operating-systems/linux/cheat_sheet.md)
 - [Privacy](privacy/privacy.md)
   - [Ad Blocking](privacy/ad_blocking.md)
 - [Programming Languages](programming_languages/p.md)
