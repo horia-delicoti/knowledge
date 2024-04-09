@@ -80,5 +80,24 @@ netstat -i
 
 ```sh
 uname -a # Show kernel version, network hostname, more
+cat /etc/os-release # Get OS release version
 dmidecode -t bios # Display UEFI/BIOS info
+```
+
+### User Management
+
+```sh
+sudo useradd <user> # Create user account
+sudo userdel <user> # Delete user account
+sudo usermod -L <user> # Change characteristics of a user account
+sudo chage # Change user password expiry information
+passwd <user> # Change password
+who # Users currently looged in the system
+whoami # Current user id
+id # Current user ID, group ID, ...
+groups # Show groups membership
+groupadd # Add a new group
+groupmod # Modify a group's attributes
+groupdel # Remove a group
+usermod # Manage a user's group memberships
 ```
